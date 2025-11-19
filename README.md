@@ -1,4 +1,6 @@
 # keny-studio.github.io
 
-yo
-Elo
+## $${\color{gold}Yo \space Elo}$$
+
+https://keny-studio.github.io/
+
